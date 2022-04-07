@@ -15,7 +15,7 @@ Mi información
 
 ### Mi página web:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.discordapp.com/attachments/961676618496090192/961678865019858944/unknown.png" /> https://bydiego-web-page.zbydiegomt.repl.co ]
+[<img align="left" alt="My discord" width="22px" src="https://cdn.discordapp.com/attachments/961676618496090192/961678865019858944/unknown.png" /> PROXIMAMENTE ]
 <br />
 
 ### Spotify Playing 🎧
