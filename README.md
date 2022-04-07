@@ -1,7 +1,7 @@
 <h1 align="center">Holaa <img src="https://user-images.githubusercontent.com/66147422/150655515-88af3f9e-18a7-46f6-b8de-0d2f3c4caa35.gif" width="40px" />, soy zByDiegoMT, bienvenido :D</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Welcome+|sokin.eu" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenido" />
 </p>
 
 
