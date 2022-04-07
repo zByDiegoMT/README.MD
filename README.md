@@ -25,10 +25,10 @@ Mi información
 
 
 ### Estadisticas de mi perfil !
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s00kin&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zByDiegoMT&count_private=true&show_icons=true?theme=buefy)
 
 
 ## Contador de visitas
-![Visitor Count](https://profile-counter.glitch.me/s00kin/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/zByDiegoMT/count.svg)
 
 <br />
